@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Simple Website</title>
+</head>
+<body>
+	<h1>Welcome to my website!</h1>
+	<p>Click one of the buttons below to navigate to another website:</p>
+	<a href="https://www.google.com" target="_blank"><button>Go to Google</button></a>
+	<a href="https://www.youtube.com" target="_blank"><button>Go to YouTube</button></a>
+</body>
+</html>
