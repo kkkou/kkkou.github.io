@@ -36,3 +36,5 @@ connectButton.addEventListener('click', async () => {
     // MetaMask未安装，处理异常情况
   }
 });
+
+export {};
