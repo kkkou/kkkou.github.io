@@ -3,22 +3,34 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  position: relative;
+}
+
+h1 {
+  font-size: 3em;
+  color: #fff;
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  margin-top: 50px;
 }
 
 button {
   background-color: #4CAF50;
-  color: red;
+  color: white;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: block;
   font-size: 16px;
-  margin: 10px;
+  margin: 0 auto;
   cursor: pointer;
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  z-index: 1;
+  position: relative;
+  z-index: 2;
+  margin-top: 50px;
 }
